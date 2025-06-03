@@ -1,6 +1,6 @@
 # Diskette in CSS
 
-This is a simple project developed with Vue.js that shows a diskette designed entirely in CSS. You can try it here [https://jnfrap.github.io/diskette/](https://jnfrap.github.io/diskette/)
+This is a simple project that shows a diskette designed entirely in CSS. You can try it here [https://jnfrap.github.io/diskette/](https://jnfrap.github.io/diskette/)
 
 ## Installation
 
